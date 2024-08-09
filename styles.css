@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(19, 180, 172, 0.3);
+}
+
+* {
+    color: #000000;
+}
+
+#intro  {
+    background-color: rgba(13, 119, 114, 0.8);
+}
+
+#bio  {
+    background-color: rgba(16, 155, 148, 0.5);
+}
+
+#bio p {
+    margin-left: 30px;
+}
+
+#github  {
+    background-color: rgba(8, 75, 71, 0.8);
+    text-align: center; 
+}
+
+h1,h2 {
+    font-family: "Lucida Handwriting", Cursive;
+}
+
+p, h3 {
+    font-family: "Georgia", Serif;
+}
+
+p.biografia {
+    color: rgb(54, 100, 161);
+}
+
+p.formacion {
+    color: rgb(107, 38, 153);
+}
+
+p.stats {
+    color: rgb(228, 20, 100);
+}
+
+#github h3 {
+    color: lightcoral;
+}
+
+
+
+
